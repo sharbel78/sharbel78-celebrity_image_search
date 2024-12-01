@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Contribution Snake](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/sharbel78/sharbel78/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **sharbel78/sharbel78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
