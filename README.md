@@ -1,5 +1,10 @@
 ## Hi there 👋
-![GitHub Contribution Snake](https://github.com/sharbel78/sharbel78/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="GitHub Snake" src="github-snake.svg">
+</picture>
+
 
 <!--
 **sharbel78/sharbel78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
